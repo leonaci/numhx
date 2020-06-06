@@ -1,0 +1,9 @@
+-cp src
+
+-D source-map-content
+--debug
+
+-js bin/numhx.js
+-main test.ArithmeticTest
+
+#-cmd start lib/numhx/bin/index.html
