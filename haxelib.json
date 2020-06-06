@@ -1,0 +1,10 @@
+{
+  "name": "numhx",
+  "url" : "https://github.com/leonacism/numhx",
+  "license": "MIT",
+  "tags": [ "cross", "math" ],
+  "description": "Numerical calculation library for Haxe",
+  "version": "0.1.0",
+  "releasenote": "pre-release.",
+  "contributors": ["leonaci"]
+}
